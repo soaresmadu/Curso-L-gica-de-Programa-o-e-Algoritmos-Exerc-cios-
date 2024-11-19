@@ -1,1 +1,2 @@
-# Curso-L-gica-de-Programa-o-e-Algoritmos-Exerc-cios-
+#Curso: Algoritmos e Lógica de Programação
+#Prof. Nelio Alves
